@@ -2,9 +2,11 @@
 
 ## 🧠 Loss (Training dan Validation)
 🖼️ **GAMBAR 1**
+
 ![Traning Logs](train-result/Advance-Training-Graphs.png "Grafik Logs Training")
 
 🖼️ **GAMBAR 2**
+
 ![Traning Logs](train-result/Training-Graphs.png "Grafik Logs Training")
 
 **CONTEXT**: 
@@ -16,6 +18,7 @@
 ## 🧠 Matriks evaluasi seperti mAP, Precision, dan Recall
 
 🖼️ **GAMBAR 3**
+
 ![Traning Logs](train-result/Metrics.png "Training metrics result")
 
 ### 🔍 Definition (Reference: [YOLO Training Metrics Explanation](https://github.com/ultralytics/ultralytics/issues/9446))
@@ -29,9 +32,11 @@
 ## 🧠 Interpretasi terhadap performa model berdasarkan grafik
 
 🖼️ **GAMBAR 4**
+
 ![Class Count](train-result/Class-Count.png "Sum of data for each class")
 
 🖼️ **GAMBAR 5**
+
 ![AP by Class](train-result/AP-by-Class.png "AP for each class in Model")
 
 ✏️ **Analysis**: *Berdasarkan performansi model yang ditunjukkan oleh Gambar 4 dan 5, menunjukkan bahwa masih terjadi ketimpangan nilai metrics mAP50 data validation pada beberapa kelas terutama untuk kelas 3 (Rotten) yang dimana mempunyain nilai mAP50 yang sangat kecil (8.0%). Hal ini dapat terjadi karena terjadinya keadaan **imbalanced** pada dataset yang digunakan yang digambarkan oleh Gambar 4 yang dimana untuk kelas 3 hanya mempunyai data sebanyak 71 gambar. Hal ini dapat mengakibatkan terjadinya keadaan **bias** dalam dilakukan deteksi pada objek yang berpengaruh terhadap sistem perhitungan yang dibuat menjadi kurang akurat.*

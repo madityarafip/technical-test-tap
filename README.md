@@ -27,7 +27,7 @@ Penjelasan harus mencakup:
 - Matriks evaluasi seperti mAP, Precision, dan Recall
 - Interpretasi terhadap performa model berdasarkan grafik
 
-**SOLUSI**: [SOLUSI SOAL 1](https://github.com/madityarafip/technical-test-tap/tree/main/solusi-soal-2)
+**SOLUSI**: [SOLUSI SOAL 2](https://github.com/madityarafip/technical-test-tap/tree/main/solusi-soal-2)
 
 ## 🖥️ 3. Perancangan Algoritma Tracking Kendaraan
 
@@ -37,4 +37,4 @@ Rancanglah algoritma atau pendekatan berbasis Unsupervised Machine Learning yang
 - **User**      : `TES_USR_LACAK`
 - **Password**  : `StrongPassword123`
 
-*SOLUSI*:
+*SOLUSI*: [SOLUSI SOAL 3](https://github.com/madityarafip/technical-test-tap/tree/main/solusi-soal-3)
