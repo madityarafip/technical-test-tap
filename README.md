@@ -1,9 +1,9 @@
 # technical-test-tap
 PT TAP Technical Test Answer
 
-# Soal Tes Pemrograman dan Machine Learning
+# 🎯 Soal Tes Pemrograman dan Machine Learning
 
-## 1. Inference Video Menggunakan Model YOLO
+## 🖼️ 1. Inference Video Menggunakan Model YOLO
 
 Buatlah program sederhana untuk mendeteksi dan menghitung objek pada video yang terdapat di dalam folder `video`, menggunakan model YOLO yang disimpan dalam folder `model`. Program harus memenuhi ketentuan sebagai berikut:
 
@@ -16,9 +16,9 @@ Buatlah program sederhana untuk mendeteksi dan menghitung objek pada video yang 
   `4 = EmptyBunch`
 - Objek yang terdeteksi harus tetap dilacak (tracking) hingga melewati garis penghitung (counting line).
 
-*SOLUSI*: 
+**SOLUSI**: [SOLUSI SOAL 1](https://github.com/madityarafip/technical-test-tap/tree/main/solusi-soal-1)
 
-## 2. Analisis Grafik Hasil Training
+## 🧠 2. Analisis Grafik Hasil Training
 
 Berikan penjelasan terhadap grafik hasil training yang terdapat pada masing-masing file gambar dalam folder `train_result`.  
 Penjelasan harus mencakup:
@@ -27,9 +27,9 @@ Penjelasan harus mencakup:
 - Matriks evaluasi seperti mAP, Precision, dan Recall
 - Interpretasi terhadap performa model berdasarkan grafik
 
-*SOLUSI*:
+**SOLUSI**: [SOLUSI SOAL 1](https://github.com/madityarafip/technical-test-tap/tree/main/solusi-soal-2)
 
-## 3. Perancangan Algoritma Tracking Kendaraan
+## 🖥️ 3. Perancangan Algoritma Tracking Kendaraan
 
 Rancanglah algoritma atau pendekatan berbasis Unsupervised Machine Learning yang sesuai pada data tracking kendaraan berikut:
 - **Database**  : `Snowflake`
