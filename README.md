@@ -31,10 +31,5 @@ Penjelasan harus mencakup:
 
 ## 🖥️ 3. Perancangan Algoritma Tracking Kendaraan
 
-Rancanglah algoritma atau pendekatan berbasis Unsupervised Machine Learning yang sesuai pada data tracking kendaraan berikut:
-- **Database**  : `Snowflake`
-- **Host**      : `https://hb01677.ap-southeast-3.aws.snowflakecomputing.com/`
-- **User**      : `TES_USR_LACAK`
-- **Password**  : `StrongPassword123`
-
+Rancanglah algoritma atau pendekatan berbasis Unsupervised Machine Learning yang sesuai pada data tracking kendaraan
 *SOLUSI*: [SOLUSI SOAL 3](https://github.com/madityarafip/technical-test-tap/tree/main/solusi-soal-3)
